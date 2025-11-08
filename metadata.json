@@ -1,0 +1,5 @@
+{
+  "name": "StudyQuest",
+  "description": "A web application for college students to set study goals, track habits, earn points, and unlock levels. It includes productivity tools and social collaboration features in a gamified environment.",
+  "requestFramePermissions": []
+}
